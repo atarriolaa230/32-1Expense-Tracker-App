@@ -1,0 +1,1 @@
+Easily manage your finances and track expenses with a user-friendly mobile application.

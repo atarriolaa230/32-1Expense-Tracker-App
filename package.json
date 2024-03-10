@@ -1,0 +1,26 @@
+{
+"name": "32-1giji-gki",
+"version": "1.0.0",
+"description": "Easily manage your finances and track expenses with a user-friendly mobile application.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/atarriolaa230/32-1Expense-Tracker-App.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "atarriolaa230",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
